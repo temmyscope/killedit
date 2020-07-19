@@ -1,0 +1,11 @@
+{
+  "name": "killedit",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.17.1",
+    "body-parser": "1.19.0",
+    "cors": "2.8.5",
+    "mongoose": "5.9.25"
+  }
+}
